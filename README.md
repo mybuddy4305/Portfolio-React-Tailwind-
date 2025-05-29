@@ -71,11 +71,11 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kaung Myat Kyaw**
+👤 **Jinyi Guo**
 
-- GitHub: [GitHub](https://github.com/Rhaegar121)
-- Twitter: [Twitter](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw/)
+- GitHub: [GitHub](https://github.com/mybuddy4305)
+- Twitter: [Twitter](https://twitter.com/Jin-Guo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jin-guo-a95196368/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
